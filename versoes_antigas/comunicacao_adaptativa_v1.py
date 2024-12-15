@@ -1,5 +1,9 @@
 
 # Data de arquivamento: 15/12/2024
+# Versões Antigas
+
+Este diretório contém versões anteriores do código do projeto NAIA.
+Estes arquivos são mantidos para referência histórica e possível reutilização de ideias.
 
 import random
 
