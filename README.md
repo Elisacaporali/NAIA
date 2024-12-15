@@ -1,3 +1,6 @@
+## Configuração
+
+1. Clone este repositório:
 # NAIA - Neuroadaptative Artificial Intelligence Assistant
 
 # NAIA - Neuroadaptative Artificial Intelligence Assistant
