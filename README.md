@@ -1,6 +1,6 @@
 # NAIA - Neuroadaptative Intelligence Assistant
 
-NAIA é um assistente de inteligência neuroadaptativa focado no bem-estar e gerenciamento de emoções, monitoramento de medicações e dados vitais.
+NAIA é um assistente de inteligência neuroadaptativa focado no bem-estar emocional, gerenciamento de medicações e monitoramento de dados vitais. Projetada para oferecer suporte personalizado, NAIA ajuda a manter um equilíbrio saudável entre corpo e mente.
 
 ## Configuração
 
