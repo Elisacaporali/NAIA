@@ -69,7 +69,7 @@ Para contribuir ou saber mais sobre como pode se envolver, por favor, entre em c
 
 ##Contato
 - Email: elisataranto@yahoo.it
-- linkedin.com/in/caporali-design-elisa-a86549165/)
+- linkedin.com/in/caporali-design-elisa-a86549165
 
 Estamos entusiasmados para colaborar com indivíduos e organizações que compartilham nossa visão de criar uma IA verdadeiramente inclusiva e adaptativa para necessidades neurodiversas.
 
