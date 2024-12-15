@@ -6,8 +6,6 @@ NAIA é um assistente de inteligência neuroadaptativa focado no bem-estar emoci
 
 1. Clone este repositório:
 
-# NAIA - Neuroadaptative Artificial Intelligence Assistant
-
 ## Visão Geral
 NAIA é uma Assistente de Inteligência Artificial Neuroadaptativa projetada para atender às necessidades únicas de indivíduos neurodivergentes. Nosso objetivo é criar uma IA que se adapte dinamicamente a diferentes perfis neurológicos, facilitando a comunicação e o aprendizado.
 
@@ -73,9 +71,9 @@ Pronto para se juntar à família NAIA?
 Lembre-se, cada contribuição, não importa o tamanho, ajuda NAIA a crescer. Estamos ansiosos para criar algo incrível juntos!
 Para contribuir ou saber mais sobre como pode se envolver, por favor, entre em contato diretamente:
 
-##Contato
+## Contato
 - Email: elisataranto@yahoo.it
-- linkedin.com/in/caporali-design-elisa-a86549165/
+- LinkedIn: [Elisa Caporali](https://www.linkedin.com/in/caporali-design-elisa-a86549165/)
 
 Estamos entusiasmados para colaborar com indivíduos e organizações que compartilham nossa visão de criar uma IA verdadeiramente inclusiva e adaptativa para necessidades neurodiversas.
 
